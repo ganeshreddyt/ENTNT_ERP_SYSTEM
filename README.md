@@ -4,6 +4,8 @@
 
 This project is a simplified ERP (Enterprise Resource Planning) system implemented using React. It provides basic functionalities for managing products and orders.
 
+Find project files [here](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Components).
+
 ## Features
 
 - **Dashboard:** Provides an overview of key metrics like Products, Orders, etc.
