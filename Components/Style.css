@@ -1,0 +1,103 @@
+/* universal styling */
+/* to apply water wave animation to entire background */
+body {
+    background: linear-gradient(to right, #b3cbcb 0%, #7cc1bd 25%, #afeade 50%, #949fe1 75%, #b4eef7 100%);
+    background-size: 200% auto;
+    animation: waveAnimation 10s linear infinite alternate-reverse;
+}
+
+/* for background animation */
+@keyframes waveAnimation {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 0; }
+}
+
+/* header in Dashboard i.e., ENTNT ERP - system */
+.header {
+    font-size: 2.5rem;  
+    font-weight: bold;  
+    color: #333;  
+    text-transform: uppercase;  
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);  
+}
+
+/* apply animation to div boxes */
+@keyframes moveUpDown {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0); }
+}
+
+/* to apply animation to div boxes recognized by .rounded-3 uniquely */
+.rounded-3 {
+    background: linear-gradient(to right, #58e4e4 0%, #c9fbf8 25%, #89e1eb 50%, #93a0ed 75%, #d0a7ec 100%);
+    background-size: 200% auto;
+    animation: moveUpDown var(--duration) ease-in-out infinite, waveAnimation 10s linear infinite alternate-reverse;;
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 768px) {
+    .header {
+        font-size: 2.25rem;  
+    }
+     
+    .form-control {
+        font-size: 0.8rem;  
+        padding: 0.25rem 0.5rem;  
+    }
+
+    .btn {
+        font-size: 0.8rem;  
+        padding: 0.20rem 0.25rem;  
+    }
+
+    .dropdown-menu {
+        font-size: 0.8rem;  
+    }
+
+    .dropdown-toggle {
+        font-size: 0.8rem;  
+        padding: 0.20rem 0.5rem;  
+    }
+}
+
+/* Media query for screens up to 450px */
+@media only screen and (max-width: 450px) {
+    /* Adjustments for screens up to 450px */
+    .header {
+        font-size: 1.5rem; /* Decrease font size for header on screens up to 450px */
+    }
+}
+
+/* Additional adjustments for screens below 300px */
+@media only screen and (max-width: 300px) {
+    /* Adjustments for screens below 300px */
+    .header {
+        font-size: 1.4rem; /* Further decrease font size for header on screens below 300px */
+    }
+}
+
+
+/* for Products.js and Orders.js and OrdersCalender.js (Modal pop-up) tabular view  */
+.table-responsive{
+    overflow-x: auto;   /* to create a horizontal scroll bar  */
+    max-width: 100%;  
+}
+
+.scrollable-table {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;  
+}
+
+table {
+    width: 100%;  
+    border-collapse: collapse;  
+}
+
+th, td {
+    padding: 8px;  
+    border: 1px solid #ddd;  
+    text-align: left;  
+}
+
