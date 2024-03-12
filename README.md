@@ -13,7 +13,7 @@ This project is a simplified ERP (Enterprise Resource Planning) system implement
 
 ## **Project Structure**
 
-![Screenshot 1](/path/to/Project Structure.png)
+Project Structure.png
 
 ## **Getting Started**
 
