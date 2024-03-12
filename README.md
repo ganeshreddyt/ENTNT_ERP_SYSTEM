@@ -13,7 +13,7 @@ This project is a simplified ERP (Enterprise Resource Planning) system implement
 
 ## Project Structure
 
-![Project Structure](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Project%20Structure.png)
+See the project structure [here](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Project%20Structure.png).
 
 ## Getting Started
 
@@ -31,10 +31,10 @@ This project is a simplified ERP (Enterprise Resource Planning) system implement
 ## Screenshots
 
 ### For Desktop View
-![Desktop View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View/demo1.png)
+[Desktop View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View)
 
 ### For Mobile View
-![Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo6.png)
+[Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View)
 
 ## Conclusion
 
