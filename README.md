@@ -31,10 +31,10 @@ See the project structure [here](https://github.com/ganeshreddyt/ENTNT-Assessmen
 ## Screenshots
 
 ### For Desktop View
-[Desktop View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View)
+[Desktop View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View/demo1.png)
 
 ### For Mobile View
-[Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View)
+[Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo6.png)
 
 ## Conclusion
 
