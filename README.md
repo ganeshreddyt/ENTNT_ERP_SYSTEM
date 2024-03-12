@@ -13,7 +13,8 @@ This project is a simplified ERP (Enterprise Resource Planning) system implement
 
 ## **Project Structure**
 
-Project Structure.png
+https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Project Structure.png
+
 
 ## **Getting Started**
 
