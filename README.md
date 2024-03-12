@@ -32,6 +32,18 @@ This project is a simplified ERP (Enterprise Resource Planning) system implement
 
 ## **Screenshots**
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+For Desktop View
+[![Screenshot 1](/path/to/screenshot1.png)](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View/demo1.png
+)https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View/demo1.png
+
+For Mobile View
+[![Screenshot 2](/path/to/screenshot2.png)](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo6.png
+)https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo6.png
+
+## Conclusion
+
+Thank you for taking the time to explore my project! 
+
+Happy coding!
+
 
