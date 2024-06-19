@@ -22,7 +22,7 @@ See the project structure [here](https://github.com/ganeshreddyt/ENTNT-Assessmen
 1. **Clone** this repository.
 2. **Install dependencies** using `npm install`.
 3. **Start the development server** using `npm start`.
-4. **Open [http://localhost:3000]([ERP-SYSTEM](https://entnt-erp-system.netlify.app/))** to view the application in your browser.
+4. **Open [ERP-SYSTEM](https://entnt-erp-system.netlify.app/)** to view the application in your browser.
 
 ## Technologies Used
 
