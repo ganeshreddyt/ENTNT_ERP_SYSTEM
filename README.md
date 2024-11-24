@@ -36,7 +36,7 @@ See the project structure [here](https://github.com/ganeshreddyt/ENTNT-Assessmen
 [Desktop View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Desktop%20View/demo1.png)
 
 ### For Mobile View
-[Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo6.png)
+[Mobile View](https://github.com/ganeshreddyt/ENTNT-Assessment/blob/main/Mobile%20View/demo1.png)
 
 ## Conclusion
 
